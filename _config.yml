@@ -1,7 +1,7 @@
-name: "Pianfan's blog"
-description: "LiPo'S BLOG"
+name: "LiPo'S BLOG"
+description: "personal BLOG"
 
-avatar: https://pianfan.github.io/images/avatar.jpg
+avatar: https://github.com/lipo-study/learngit/blob/master/images/DSC06070.JPG
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
